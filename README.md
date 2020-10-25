@@ -3,7 +3,7 @@
 
 Projects-index
 
-A. Python Basic
-B. Intermediete Programs
-C. Web Development
-D. Desktop Applications & GUI
+(A). Python Basic
+(B). Intermediete Programs
+(C). Web Development
+(D). Desktop Applications & GUI
